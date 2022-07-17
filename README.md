@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AisosaMicah but you can call me Micah.
+- 👋 Hi, I’m @MicahAsowata but you can call me Micah.
 - 👀 I’m interested in web development both client-side and server-side
 - 🌱 I’m currently learning React JS and looking to learn Rails in the future
 - 💞️ I’m looking to collaborate on open source frontend projects for now, then move to server-side projects in the future
